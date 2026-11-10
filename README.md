@@ -28,7 +28,7 @@
 |:--:|:--------|:------------|:------:|
 | 01 | **[arasaka-ui-terminal](https://github.com/itsbabp/arasaka-ui-terminal)** | Arasaka-themed Windows utility. `.bat` menu (Arasaka CLI) and a PowerShell GUI (Arasaka UI) | ![active](https://img.shields.io/badge/-active-A4133C?style=flat-square) |
 | 02 | **Arasaka Vencord theme** | Discord theme with the Arasaka look and Japanese labels after UI names | ![active](https://img.shields.io/badge/-active-A4133C?style=flat-square) |
-| 03 | **[website](https://github.com/itsbabp/website)** | Arasaka retro-cyberpunk homelab home page / photography site | ![in dev](https://img.shields.io/badge/-in_dev-A4133C?style=flat-square) |
+| 03 | **[website](https://github.com/itsbabp/website)** | Photography site | ![in dev](https://img.shields.io/badge/-in_dev-A4133C?style=flat-square) |
 
 <img src="assets/divider.svg" width="100%" alt="">
 
