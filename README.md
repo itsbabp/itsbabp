@@ -15,7 +15,7 @@
 ▌ handle     : sky  (itsbabp)
 ▌ base       : australia  [utc+10:30]
 ▌ class      : homelab / ui tinkerer
-▌ aesthetic  : retro-cyberpunk, 80s-90s meets modern
+▌ aesthetic  : retro-cyberpunk, 80s-90s & modern
 ▌ quote      : the one thing you should never give up on,
                is the desire to become the person you want to be.
 ```
