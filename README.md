@@ -15,7 +15,7 @@
 ▌ handle     : sky  (itsbabp)
 ▌ base       : australia  [utc+10:30]
 ▌ class      : homelab / ui tinkerer
-▌ aesthetic  : retro-cyberpunk, 80s-90s & modern
+▌ aesthetic  : retro-cyberpunk, 80s-90s meets modern
 ▌ quote      : the one thing you should never give up on,
                is the desire to become the person you want to be.
 ```
@@ -28,7 +28,7 @@
 |:--:|:--------|:------------|:------:|
 | 01 | **[arasaka-ui-terminal](https://github.com/itsbabp/arasaka-ui-terminal)** | Arasaka-themed Windows utility. `.bat` menu (Arasaka CLI) and a PowerShell GUI (Arasaka UI) | ![active](https://img.shields.io/badge/-active-A4133C?style=flat-square) |
 | 02 | **Arasaka Vencord theme** | Discord theme with the Arasaka look and Japanese labels after UI names | ![active](https://img.shields.io/badge/-active-A4133C?style=flat-square) |
-| 03 | **[website](https://github.com/itsbabp/website)** | Photography site | ![in dev](https://img.shields.io/badge/-in_dev-A4133C?style=flat-square) |
+| 03 | **[website](https://github.com/itsbabp/website)** | Arasaka retro-cyberpunk homelab home page / photography site | ![in dev](https://img.shields.io/badge/-in_dev-A4133C?style=flat-square) |
 
 <img src="assets/divider.svg" width="100%" alt="">
 
@@ -41,17 +41,25 @@
 
 <img src="assets/divider.svg" width="100%" alt="">
 
+## stats / 統計
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=itsbabp&hide_rank=true&custom_title=stats&title_color=A4133C&text_color=EDE6DA&bg_color=121212&border_color=A4133C&border_radius=0" height="165" alt="github stats">
+
+</div>
+
+<!--
+Optional: add once you have more public repos (it only counts public code, and skips forks)
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsbabp&layout=compact&custom_title=languages&title_color=A4133C&text_color=EDE6DA&bg_color=121212&border_color=A4133C&border_radius=0" height="165" alt="top languages">
+-->
+
+<img src="assets/divider.svg" width="100%" alt="">
+
 ## contact / 連絡
 
 ▌ [bit.ly/pixiebabp](https://bit.ly/pixiebabp)
-
-<!--
-Optional: re-enable your lowlighter/metrics output here once the workflow is generating it.
-
-## telemetry / 統計
-
-![metrics](./github-metrics.svg)
--->
 
 <div align="center">
 
