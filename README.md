@@ -6,8 +6,6 @@
 
 </div>
 
-<img src="assets/divider.svg" width="100%" alt="">
-
 ## about / 概要
 
 ```text
