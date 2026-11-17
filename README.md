@@ -11,9 +11,8 @@
 ## about / 概要
 
 ```text
-▌ name       : 荒坂 蒼空
+▌ name       : 荒坂 蒼空 
 ▌ handle     : sky  (itsbabp)
-▌ company    : 荒坂社  (arasaka corp)
 ▌ base       : australia  [utc+10:30]
 ▌ class      : homelab / ui tinkerer
 ▌ aesthetic  : retro-cyberpunk, 80s-90s meets modern
@@ -50,6 +49,8 @@
 ▌ [bit.ly/pixiebabp](https://bit.ly/pixiebabp)
 
 <div align="center">
+
+(Last name is a joke)
 
 <sub>荒坂 // end of file</sub>
 
