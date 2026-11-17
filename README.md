@@ -1,9 +1,8 @@
 <div align="center">
 
-<img src="assets/banner.svg" alt="Sky" width="100%">
+<img src="assets/banner.svg" alt="荒坂 蒼空" width="100%">
 
-![location](https://img.shields.io/badge/location-australia-A4133C?style=flat-square&labelColor=1A1A1A)
-![focus](https://img.shields.io/badge/focus-homelab_%2F_ui_%2F_theming-A4133C?style=flat-square&labelColor=1A1A1A)
+<img src="assets/tags.svg" alt="location: australia. focus: homelab, ui, theming" width="100%">
 
 </div>
 
@@ -12,7 +11,9 @@
 ## about / 概要
 
 ```text
+▌ name       : 荒坂 蒼空
 ▌ handle     : sky  (itsbabp)
+▌ company    : 荒坂社  (arasaka corp)
 ▌ base       : australia  [utc+10:30]
 ▌ class      : homelab / ui tinkerer
 ▌ aesthetic  : retro-cyberpunk, 80s-90s meets modern
@@ -26,34 +27,21 @@
 
 | #  | project | description | status |
 |:--:|:--------|:------------|:------:|
-| 01 | **[arasaka-ui-terminal](https://github.com/itsbabp/arasaka-ui-terminal)** | Arasaka-themed Windows utility. `.bat` menu (Arasaka CLI) and a PowerShell GUI (Arasaka UI) | ![active](https://img.shields.io/badge/-active-A4133C?style=flat-square) |
-| 02 | **Arasaka Vencord theme** | Discord theme with the Arasaka look and Japanese labels after UI names | ![active](https://img.shields.io/badge/-active-A4133C?style=flat-square) |
-| 03 | **[portfolio](https://github.com/itsbabp/portfolio)** | about me / photography site | ![in dev](https://img.shields.io/badge/-in_dev-A4133C?style=flat-square) |
+| 01 | **[arasaka-ui-terminal](https://github.com/itsbabp/arasaka-ui-terminal)** | Arasaka-themed Windows utility. `.bat` menu (Arasaka CLI) and a PowerShell GUI (Arasaka UI) | active |
+| 02 | **Arasaka Vencord theme** | Discord theme with the Arasaka look and Japanese labels after UI names | active |
+| 03 | **[website](https://github.com/itsbabp/website)** | Arasaka retro-cyberpunk homelab home page / photography site | in dev |
 
 <img src="assets/divider.svg" width="100%" alt="">
 
 ## stack / 技術
 
-![batch](https://img.shields.io/badge/batch-1A1A1A?style=flat-square&labelColor=A4133C)
-![powershell](https://img.shields.io/badge/powershell-1A1A1A?style=flat-square&labelColor=A4133C)
-![css](https://img.shields.io/badge/css-1A1A1A?style=flat-square&labelColor=A4133C)
-![html](https://img.shields.io/badge/html-1A1A1A?style=flat-square&labelColor=A4133C)
+`batch` · `powershell` · `css` · `html`
 
 <img src="assets/divider.svg" width="100%" alt="">
 
 ## stats / 統計
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=itsbabp&hide_rank=true&custom_title=stats&title_color=A4133C&text_color=EDE6DA&bg_color=121212&border_color=A4133C&border_radius=0" height="165" alt="github stats">
-
-</div>
-
-<!--
-Optional: add once you have more public repos (it only counts public code, and skips forks)
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsbabp&layout=compact&custom_title=languages&title_color=A4133C&text_color=EDE6DA&bg_color=121212&border_color=A4133C&border_radius=0" height="165" alt="top languages">
--->
+<img src="assets/stats.svg" alt="github stats" width="100%">
 
 <img src="assets/divider.svg" width="100%" alt="">
 
