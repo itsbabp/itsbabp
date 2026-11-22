@@ -3,7 +3,7 @@
 <!-- swap this wave for your own picture: upload it to assets/header.jpg and use <img src="assets/header.jpg" width="100%"> -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=A4133C&height=120&section=header" width="100%" alt="">
 
-<img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=38&duration=3500&pause=500&color=C2183F&center=true&vCenter=true&multiline=true&repeat=false&width=700&height=130&lines=hello!+%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF;i'm+sky+(%E8%92%BC%E7%A9%BA)" alt="hello! こんにちは, i'm [REDACTED] (蒼空)">
+<img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=38&duration=3500&pause=500&color=C2183F&center=true&vCenter=true&multiline=true&repeat=false&width=700&height=130&lines=hello!+%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF;i'm+[REDACTED]+(%E8%92%BC%E7%A9%BA)" alt="hello! こんにちは, i'm [REDACTED] (蒼空)">
 
 student · programmer · photographer
 
@@ -54,7 +54,7 @@ student · programmer · photographer
 
 - 🟢 **[arasaka-ui-terminal](https://github.com/itsbabp/arasaka-ui-terminal)**: an Arasaka-themed Windows utility with a `.bat` menu (Arasaka CLI) and a PowerShell GUI (Arasaka UI)
 - 🟢 **Arasaka Vencord theme**: a Discord theme with the Arasaka look and Japanese labels after UI names
-- 🛠️ **[website](https://github.com/itsbabp/website)**: an Arasaka retro-cyberpunk homelab home page / photography site
+- 🛠️ **[portfolio](https://github.com/itsbabp/portfolio)**: an Arasaka retro-cyberpunk homelab home page / photography site
 
 <div align="center">
 
