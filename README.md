@@ -3,9 +3,9 @@
 <!-- swap this wave for your own picture: upload it to assets/header.jpg and use <img src="assets/header.jpg" width="100%"> -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=A4133C&height=120&section=header" width="100%" alt="">
 
-<img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=38&duration=3500&pause=500&color=C2183F&center=true&vCenter=true&multiline=true&repeat=false&width=700&height=100&lines=hello!+%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF;i'm+sky+(%E8%92%BC%E7%A9%BA)" alt="hello! こんにちは, i'm sky (蒼空)">
+<img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=38&duration=3500&pause=500&color=C2183F&center=true&vCenter=true&multiline=true&repeat=false&width=700&height=130&lines=hello!+%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF;i'm+sky+(%E8%92%BC%E7%A9%BA)" alt="hello! こんにちは, i'm sky (蒼空)">
 
-荒坂 蒼空 · student of the old-future · homelab / ui tinkerer
+student · programmer · photographer
 
 <a href="https://bit.ly/pixiebabp"><img src="https://img.shields.io/badge/contact-bit.ly%2Fpixiebabp-A4133C?style=for-the-badge&labelColor=000000" alt="contact"></a>
 
@@ -15,7 +15,9 @@
 
 </div>
 
-<table>
+<div align="center">
+
+<table align="center">
 <tr>
 <td width="220" align="center">
 <img src="https://github.com/itsbabp.png?size=200" width="180" alt="sky">
@@ -37,6 +39,8 @@ sky@github  ✦  荒坂 蒼空
 </td>
 </tr>
 </table>
+
+</div>
 
 <div align="center">
 
