@@ -30,7 +30,7 @@ student · programmer · photographer
 🏢 荒坂社 · arasaka corp
 🌏 australia  [utc+10:30]
 🛠️ homelab, ui tinkering, themes
-🎨 retro-cyberpunk, 80s-90s meets modern
+🎨 anything really
 💻 batch · powershell · css · html
 💫 the one thing you should never give up on,
    is the desire to become the person you want to be.
