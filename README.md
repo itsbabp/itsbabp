@@ -52,9 +52,9 @@ student · programmer · photographer
 
 </div>
 
+- 🛠️ **[portfolio](https://github.com/itsbabp/portfolio)**: an Arasaka retro-cyberpunk homelab home page / photography site
 - 🟢 **[arasaka-ui-terminal](https://github.com/itsbabp/arasaka-ui-terminal)**: an Arasaka-themed Windows utility with a `.bat` menu (Arasaka CLI) and a PowerShell GUI (Arasaka UI)
 - 🟢 **Arasaka Vencord theme**: a Discord theme with the Arasaka look and Japanese labels after UI names
-- 🛠️ **[portfolio](https://github.com/itsbabp/portfolio)**: an Arasaka retro-cyberpunk homelab home page / photography site
 
 <div align="center">
 
